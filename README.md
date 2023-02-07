@@ -1,33 +1,51 @@
-# My Website
-
-Welcome to my website!
-
-## About Me
-
-I am a software developer with a passion for writing clean, efficient, and well-documented code. I have experience in several programming languages, including Java, Python, and JavaScript.
-
-## Skills
-
-- Proficient in Java, Python, and JavaScript
-- Experience with SQL databases
-- Knowledge of software development methodologies, such as Agile and Scrum
-- Familiar with Git and GitHub for version control
-
-## Projects
-
-- [Project 1](https://github.com/user/project1) - A web-based application built with Java and SQL.
-- [Project 2](https://github.com/user/project2) - A machine learning project implemented in Python.
-
-## Portfolio
-
-Check out my portfolio for a full list of my projects and experience:
-- [Portfolio](https://example.com/portfolio)
-
-## Blog
-
-Follow my blog for the latest updates and insights on my work and the industry:
-- [Blog](https://example.com/blog)
-
-## Contact Me
-
-Feel free to reach out to me via email at [email@example.com](mailto:email@example.com) for any questions or opportunities.
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <style>
+    /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: lightgray;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    main {
+      padding: 20px;
+    }
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Website</h1>
+  </header>
+  <main>
+    <h2>About Me</h2>
+    <p>I am a software developer with a passion for writing clean, efficient, and well-documented code. I have experience in several programming languages, including Java, Python, and JavaScript.</p>
+    <h2>Skills</h2>
+    <ul>
+      <li>Proficient in Java, Python, and JavaScript</li>
+      <li>Experience with SQL databases</li>
+      <li>Knowledge of software development methodologies, such as Agile and Scrum</li>
+      <li>Familiar with Git and GitHub for version control</li>
+    </ul>
+    <h2>Blog</h2>
+    <p>Follow my <a href="https://example.com/blog">blog</a> for the latest updates and insights on my work and the industry.</p>
+  </main>
+</body>
+</html>
