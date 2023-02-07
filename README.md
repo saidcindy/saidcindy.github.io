@@ -14,15 +14,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "/katie.pdf", title: CV}
-  - {url: "/katie.pdf", title: CV}
-  - {url: "http://childlanglab.com", title: Lab}
+  - {file: "/cindy.pdf", title: CV}
+  - {url: "/cindy.pdf", title: CV}
   - {file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/KathrynSchuler"}
+  - {title: Mail, icon: envelope, url: "mailto:cindyguerra.h@outlook.com"}
+  - {title: Github, icon: github, url: "https://github.com/saidcindy"}
 remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
