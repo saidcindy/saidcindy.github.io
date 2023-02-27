@@ -1,5 +1,5 @@
-title: "Cindy Hernandez"
-author: "Cindy Hernandez"
+title: "Cindy Guerra"
+author: "Cindy Guerra"
 description: "Emory University"
 permalink: /:title/
 lang: "en"
